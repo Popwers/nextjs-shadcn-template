@@ -16,7 +16,8 @@
 **/.cache
 **/.next
 
-**/CHANGELOG.md
+# Ignore markdown files
+**/*.md
 
 # Ignore node_modules, var, and vendor directories
 **/node_modules
