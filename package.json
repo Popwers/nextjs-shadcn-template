@@ -12,7 +12,7 @@
     "typecheck": "tsc --noEmit",
     "format:write": "prettier --write \"**/*.{ts,tsx,mdx}\" --cache",
     "format:check": "prettier --check \"**/*.{ts,tsx,mdx}\" --cache",
-    "format:all": "prettier --config .prettierrc --ignore-path .prettierignore --write . --cache"
+    "format:all": "prettier --config .prettierrc --ignore-path .prettierignore --write ."
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
