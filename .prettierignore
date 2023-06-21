@@ -1,0 +1,41 @@
+**/cache
+**/caches
+**/log
+**/logs
+**/tmp
+**/temp
+**/backup
+**/backups
+**/dump
+**/dumps
+
+# Ignore hidden files
+**/.git
+**/.svn
+**/.hg
+**/.cache
+**/.next
+
+**/CHANGELOG.md
+
+# Ignore node_modules, var, and vendor directories
+**/node_modules
+**/var
+**/vendor
+
+# Ignore the public and dist directories
+**/public
+**/dist
+**/build
+**/.contentlayer
+
+# Ignore package-lock.json, yarn.lock, and .yarn-integrity
+**/package.json
+**/package-lock.json
+**/.yarn
+**/yarn.lock
+**/.yarn-integrity
+
+# Ignore minified CSS and JS
+**/*.min.css
+**/*.min.js
