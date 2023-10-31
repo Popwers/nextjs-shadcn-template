@@ -36,6 +36,8 @@
 **/.yarn
 **/yarn.lock
 **/.yarn-integrity
+**/.pnp.*
+**/bun.lockb
 
 # Ignore minified CSS and JS
 **/*.min.css
