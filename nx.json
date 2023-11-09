@@ -1,0 +1,28 @@
+{
+	"targetDefaults": {
+		"build": {
+			"cache": true
+		},
+		"lint": {
+			"cache": true
+		},
+		"lint:fix": {
+			"cache": true
+		},
+		"typecheck": {
+			"cache": true
+		},
+		"format:write": {
+			"cache": true
+		},
+		"format:check": {
+			"cache": true
+		},
+		"format:all": {
+			"cache": true
+		}
+	},
+	"affected": {
+		"defaultBase": "main"
+	}
+}
