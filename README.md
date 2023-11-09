@@ -18,6 +18,9 @@
 
 ## Getting Started
 
+To get a local copy up and running, follow these steps.
+This template use nx.dev to manage the monorepo, so you can use nx commands to run the project.
+
 ### Prerequisites
 
 Make sure you have the following software installed on your computer:
@@ -44,7 +47,7 @@ Make sure you have the following software installed on your computer:
     bun install -y
     ```
 
-3. Run the project:
+3. Run the using traditional package manager commands or nx.dev:
     ```sh
     npm run dev
     # or
@@ -53,6 +56,8 @@ Make sure you have the following software installed on your computer:
     pnpm dev
     # or
     bun dev
+    # or
+    nx dev
     ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
